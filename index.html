@@ -24,8 +24,7 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
+				<section data-markdown="slide.md" data-separator="^\n---\n$" data-separator-vertical="^\n>>>\n$"></section>
 			</div>
 		</div>
 
@@ -42,7 +41,10 @@
 					{ src: 'plugin/markdown/markdown.js' },
 					{ src: 'plugin/notes/notes.js', async: true },
 					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
-				]
+				],
+				history: true,
+				fragmentInURL: true,
+				mouseWheel: true,
 			});
 		</script>
 	</body>

@@ -1,0 +1,9 @@
+theme : night
+
+transition : fade
+
+highlight : monokai
+
+code-line-numbers : true
+
+mousewheel : true

@@ -7,3 +7,5 @@ highlight : monokai
 code-line-numbers : true
 
 mousewheel : true
+
+theme-override : css/custom.css

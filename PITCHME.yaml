@@ -1,6 +1,6 @@
 theme : black
 
-transition : fade
+transition : slide
 
 highlight : monokai
 

@@ -75,6 +75,16 @@
 
 ---
 
+### Commands
+
+```vim
+:Ctrlb tab/scroll/down
+:Ctrlb tab/open -url=https://github.com
+:CtrlbOpen currentTab
+```
+
+---
+
 <img src="https://raw.github.com/wiki/notomo/ctrlb.nvim/images/demo.gif">
 
 ---

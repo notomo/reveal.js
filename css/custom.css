@@ -15,8 +15,23 @@
   font-size: 2.2em;
 }
 
+.reveal h2 span.wrap {
+  white-space: nowrap;
+}
+
 .reveal h3 {
   font-size: 2.5em;
+  white-space: nowrap;
+}
+
+.reveal span.text-overflow-center {
+  margin-left: -100%;
+  margin-right: -100%;
+  text-align: center;
+}
+
+.reveal h4 {
+  font-size: 2em;
 }
 
 .reveal p.title-footer {
@@ -24,13 +39,35 @@
 }
 
 .reveal span.pink {
-  color: #f2b5ee;
+  color: #e2b5ee;
 }
 
 .reveal span.list-element {
   font-size: 1.4em;
 }
 
+.reveal span.warning {
+  color: #ff3300;
+}
+
+.reveal span.warning-text {
+  font-size: 1.5em;
+}
+
+.reveal span.left {
+  margin-right: 3.6em;
+}
+
+.reveal span.warning-line {
+  border-bottom: 2px solid currentColor;
+  display: inline-block;
+  line-height: 0.85;
+}
+
 .reveal span.dot {
   font-size: 0.7em;
+}
+
+.reveal ul ul {
+  margin-left: 150px;
 }

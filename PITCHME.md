@@ -71,7 +71,10 @@
 
 ---
 
-## ctrlb.nvim
+## 🎉 ctrlb.nvim 🎉
+
+---
+
 <img src="https://raw.github.com/wiki/notomo/ctrlb.nvim/images/demo.gif">
 
 ---

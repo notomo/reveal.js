@@ -79,3 +79,7 @@
 .reveal li.inactive {
   opacity: 0.5;
 }
+
+.reveal section img {
+  border: 3px solid #cccccc;
+}

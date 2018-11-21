@@ -30,7 +30,7 @@ System Image : TODO
 
 ---
 
-## Disadvantageous 😣
+## Disadvantages 😣
 
 ---
 

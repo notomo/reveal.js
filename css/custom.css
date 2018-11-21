@@ -46,6 +46,10 @@
   font-size: 1.4em;
 }
 
+.reveal li.list-element {
+  font-size: 1.4em;
+}
+
 .reveal span.warning {
   color: #ff3300;
 }
@@ -70,4 +74,8 @@
 
 .reveal ul ul {
   margin-left: 150px;
+}
+
+.reveal li.inactive {
+  opacity: 0.5;
 }

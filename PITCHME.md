@@ -12,12 +12,62 @@
 
 ---
 
-
 ## I want to live 🏠<br>inside the terminal<span class="dot">.</span>
 
 ---
 
-## <span class="text-overflow-center">🌐But I'm web engineer<span class="dot">.</span>🌐</span>
+## <span class="text-overflow-center">🌐 But I'm web engineer<span class="dot">.</span> 🌐</span>
+
+---
+
+## Work with web browser
+
+<ol>
+    <li class="list-element">**work inside the terminal**</li>
+    <li class="list-element inactive">go to the web browser</li>
+    <li class="list-element inactive">go back to the terminal</li>
+    <li class="list-element inactive">repeat</li>
+</ol>
+
+# 🏠😄
+
+---
+
+## Work with web browser
+
+<ol>
+    <li class="list-element inactive">work inside the terminal</li>
+    <li class="list-element">**go to the web browser**</li>
+    <li class="list-element inactive">go back to the terminal</li>
+    <li class="list-element inactive">repeat</li>
+</ol>
+
+# 🏢..🚃......🏠
+
+---
+
+## Work with web browser
+
+<ol>
+    <li class="list-element inactive">work inside the terminal</li>
+    <li class="list-element inactive">go to the web browser</li>
+    <li class="list-element">**go back to the terminal**</li>
+    <li class="list-element inactive">repeat</li>
+</ol>
+
+# 🏢......🚃..🏠
+
+---
+
+## Work with web browser
+
+<ol>
+    <li class="list-element inactive">work inside the terminal</li>
+    <li class="list-element inactive">go to the web browser</li>
+    <li class="list-element inactive">go back to the terminal</li>
+    <li class="list-element">**repeat**</li>
+</ol>
+# 😣
 
 ---
 
@@ -35,7 +85,7 @@
 
 ---
 
-## <span class="text-overflow-center">Many dependencies😑</span>
+## <span class="text-overflow-center">Many dependencies 😑</span>
 
 - <span class="list-element">neovim node.js provider</span>
 - <span class="list-element">websocket server</span>

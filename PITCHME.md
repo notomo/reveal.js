@@ -92,7 +92,7 @@
 
 ---
 
-### Commands
+### Ctrlb Command
 
 ```text
 :Ctrlb {method} [-{param}={value} ...]
@@ -107,12 +107,13 @@
 
 <span class="large">They enable to control resources.</span>
 
-<ul>
-    <li><span class="list-element">current tab</span></li>
-    <li><span class="list-element">history list</span></li>
-    <li><span class="list-element">bookmark tree</span></li>
-    <li><span class="list-element">controller</span></li>
-</ul>
+```text
+:CtrlbOpen {bufferName}
+:CtrlbOpen bookmarkTree
+:CtrlbOpen currentTab
+:CtrlbOpen ctrl
+:CtrlbOpen historyList
+```
 
 ---
 

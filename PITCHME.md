@@ -126,6 +126,20 @@
 
 ---
 
+### <h3 class="fix-margin">Implements</h3>
+
+- <span class="list-element">Web Browser Extension = <u>ctrlb</u></span>
+    - Typescript, Web Extension Api
+    - https://github.com/notomo/ctrlb
+- <span class="list-element">WebSocket Server & Client = <u>wsxhub</u></span>
+    - Golang
+    - https://github.com/notomo/wsxhub
+- <span class="list-element">Neovim Plugin = <u>ctrlb.nvim</u></span>
+    - Typescript, neovim/node-client
+    - https://github.com/notomo/ctrlb.nvim
+
+---
+
 ## Disadvantages 😣
 
 ---
@@ -169,7 +183,43 @@
 
 ---
 
-## Thank you for listening 🙇🙇🙇
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 
@@ -245,3 +295,18 @@
 
 # 15
 
+---
+
+# Vim
+
+---
+
+# Neovim
+
+---
+
+# Vim/Neovim
+
+---
+
+## Thank you for listening 🙇🙇🙇

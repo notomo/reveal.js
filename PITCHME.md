@@ -117,6 +117,19 @@
 
 ---
 
+### ctrl buffer ❓
+
+<span class="large">= Free key mappings buffer</span>
+
+```text
+nnoremap <buffer> h
+\ :<C-u>Ctrlb tab/previous<CR>
+nnoremap <buffer> l
+\ :<C-u>Ctrlb tab/next<CR>
+```
+
+---
+
 <img src="https://raw.github.com/wiki/notomo/ctrlb.nvim/images/demo.gif">
 
 ---
@@ -180,8 +193,6 @@
 ---
 
 # Vim/Neovim
-
----
 
 ---
 

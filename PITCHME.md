@@ -153,31 +153,6 @@ nnoremap <buffer> l
 
 ---
 
-## Disadvantages 😣
-
----
-
-## <span class="text-overflow-center">Many dependencies 😑</span>
-
-- <span class="list-element">neovim node.js provider</span>
-- <span class="list-element">websocket server</span>
-- <span class="list-element">web browser extension</span>
-
----
-
-## <span class="text-overflow-center">Too much permission <span class="warning">&#x26a0;</span></span>
-
-<span class="large">
-    <span class="warning-line left">There is a need to ensure</span>
-    <span class="warning-line">the server is not exposed outside.</span>
-</span>
-
----
-
-## <span class="text-overflow-center">🚧 In development 🚧</span>
-
----
-
 # Demo
 
 <span class="large">~~Fizz Buzz~~ <br>Vim/Neovim by web browser tabs<span class="large">
@@ -193,6 +168,14 @@ nnoremap <buffer> l
 ---
 
 # Vim/Neovim
+
+---
+
+---
+
+---
+
+---
 
 ---
 

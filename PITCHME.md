@@ -139,7 +139,7 @@ nnoremap <buffer> l
 
 ---
 
-### <h3 class="fix-margin">Implements</h3>
+### <h3 class="fix-margin">Implementation</h3>
 
 - <span class="list-element">Web Browser Extension = <u>ctrlb</u></span>
     - Typescript, Web Extension Api

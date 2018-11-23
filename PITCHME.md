@@ -71,7 +71,7 @@
 
 ---
 
-## <span class="text-overflow-center">Work with web browser </span>
+## <span class="text-overflow-center inactive">Work with web browser </span>
 
 <ol>
     <li class="list-element inactive">work inside the terminal</li>

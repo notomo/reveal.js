@@ -11,7 +11,7 @@ for i in range(1, 15)
         execute 'Ctrlb tab/tabOpen -url=' . s:base_url . (30 + i)
     endif
 
-    sleep 1
+    sleep 2
 endfor
 
 Ctrlb tab/closeOthers

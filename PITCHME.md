@@ -16,7 +16,7 @@
 
 ---
 
-## <span class="text-overflow-center">🌐 But I'm web engineer<span class="dot">.</span> 🌐</span>
+## I need a gui web browser<span class="dot">.</span> 🤔</span>
 
 ---
 

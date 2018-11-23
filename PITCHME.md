@@ -77,7 +77,7 @@
 
 ### Commands
 
-```vim
+```text
 :Ctrlb tab/scroll/down
 :Ctrlb tab/open -url=https://github.com
 :CtrlbOpen currentTab

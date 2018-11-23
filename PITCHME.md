@@ -102,6 +102,19 @@
 
 ---
 
+### Plugin buffers 📝
+
+<span class="large">They enable to control resources.</span>
+
+<ul>
+    <li><span class="list-element">current tab</span></li>
+    <li><span class="list-element">history list</span></li>
+    <li><span class="list-element">bookmark tree</span></li>
+    <li><span class="list-element">controller</span></li>
+</ul>
+
+---
+
 <img src="https://raw.github.com/wiki/notomo/ctrlb.nvim/images/demo.gif">
 
 ---
@@ -125,7 +138,7 @@
 
 ## <span class="text-overflow-center">Too much permission <span class="warning">&#x26a0;</span></span>
 
-<span class="warning-text">
+<span class="large">
     <span class="warning-line left">There is a need to ensure</span>
     <span class="warning-line">the server is not exposed outside.</span>
 </span>

@@ -89,8 +89,8 @@
 
 ---
 
-### Architecture
-<img src="image/architecture.png">
+### <h3 class="fix-margin">Architecture</h3>
+<p class="no-margin"><img src="image/architecture.png"></p>
 
 ---
 

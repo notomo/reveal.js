@@ -24,6 +24,16 @@
   white-space: nowrap;
 }
 
+.reveal .fix-margin {
+  margin-bottom: 0px;
+  margin-top: -70px;
+}
+
+.reveal .no-margin {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
 .reveal span.text-overflow-center {
   margin-left: -100%;
   margin-right: -100%;
@@ -82,6 +92,8 @@
 
 .reveal section img {
   border: 3px solid #cccccc;
+  margin-bottom: 0px;
+  margin-top: 0px;
 }
 
 .reveal pre code {

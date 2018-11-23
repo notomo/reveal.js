@@ -71,6 +71,19 @@
 
 ---
 
+## <span class="text-overflow-center">Work with web browser </span>
+
+<ol>
+    <li class="list-element inactive">work inside the terminal</li>
+    <li class="list-element inactive">~~go to the web browser~~</li>
+    <li value="2" class="list-element">**control the web browser by neovim**</li>
+    <li class="list-element inactive">repeat</li>
+</ol>
+
+# 💡💡💡
+
+---
+
 ## 🎉 ctrlb.nvim 🎉
 
 ---

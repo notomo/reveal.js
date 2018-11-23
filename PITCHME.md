@@ -78,9 +78,9 @@
 ### Commands
 
 ```text
-:Ctrlb tab/scroll/down
-:Ctrlb tab/open -url=https://github.com
-:CtrlbOpen currentTab
+:Ctrlb tab/open -url=https://example.com
+:Ctrlb tab/reload
+:Ctrlb tab/scroll/toBottom
 ```
 
 ---

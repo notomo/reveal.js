@@ -16,6 +16,10 @@
 
 ---
 
+## <span class="inactive">I want to live 🏠<br>inside the </span>text editor<span class="dot inactive">.</span>
+
+---
+
 ## I need a gui web browser<span class="dot">.</span> 🤔</span>
 
 ---

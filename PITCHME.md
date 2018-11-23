@@ -174,7 +174,7 @@ nnoremap <buffer> l
 
 ---
 
-## <span class="text-overflow-center">🚧 In developement 🚧</span>
+## <span class="text-overflow-center">🚧 In development 🚧</span>
 
 ---
 

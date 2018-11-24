@@ -130,7 +130,7 @@ nnoremap <buffer> l
 
 ---
 
-<img src="image/demo.gif">
+<img src="https://raw.github.com/wiki/notomo/ctrlb.nvim/images/demo.gif">
 
 ---
 
